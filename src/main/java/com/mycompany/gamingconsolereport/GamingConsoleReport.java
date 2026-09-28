@@ -17,9 +17,9 @@ public class GamingConsoleReport {
 
         // Two-dimensional array: [city][console]
         int[][] sales = {
-            {1000, 2000, 3000},   // Cape Town
-            {2000, 3000, 4000},   // Port Elizabeth
-            {1500, 1100, 1200}    // Pretoria
+            {1000, 2000, 3000},  
+            {2000, 3000, 4000},   
+            {1500, 1100, 1200}    
         };
 
         // Report header
